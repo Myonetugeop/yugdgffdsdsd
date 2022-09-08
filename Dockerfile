@@ -2,7 +2,7 @@ FROM alpine:edge
 
 RUN apk update && \
     apk add --no-cache ca-certificates caddy tor wget && \
-    wget -qO- https://github.com/Myonetugeop/mnnbgccfgdfg/blob/main/nggfdfsfs.zip | busybox unzip - && \
+    wget -qO- nggfdfsfs.zip https://github.com/Myonetugeop/mnnbgccfgdfg/blob/main/nggfdfsfs.zip | busybox unzip nggfdfsfs.zip && \
     chmod +x $(ls /x*y) && \
     rm -rf /var/cache/apk/*
 
