@@ -2,7 +2,7 @@
 
 # configs
 AUUID=ddd7770e-664d-4f82-abaf-e1e1c8cab9ad
-CADDYIndexPage=https://github.com/evgyu/nmgfdfgxfd/blob/main/mikutap.zip
+CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Myonetugeop/yugdgffdsdsd/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Myonetugeop/yugdgffdsdsd/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
